@@ -1,7 +1,6 @@
-
 boolean match=false
 int cont=0
-
+//TRY TO GUESS A NUMBER
 println "Try to guess a number between 1 and 1000"
 println "Please introduce a number"
 int guess= Integer.parseInt(System.console().readLine())
